@@ -1,32 +1,31 @@
-# ¡Hola! Soy Samuel 👋
+# ¡Hi there! My name is Samuel 👋
 
-### Estudiante de Ingeniería de Software | Desarrollador/a en formación 🚀
+### Software Engineering Student | Developer in training 🚀
 
-¡Bienvenido/a a mi perfil de GitHub! Actualmente soy estudiante de Ingeniería de Software en la Universidad Popular Autónoma de Estado de Puebla, apasionado por la resolución de problemas a través del código y siempre en busca de aprender nuevas tecnologías.
-
----
-
-## 👨‍💻 Sobre mí
-
-* 🌱 **Actualmente estudiando:** Desarrollo Frontend con React (Meta / Coursera), Gestión de contenedores con Docker (Coursera), Conceptos de Ciencia de Datos e IA (GCI World April 2026).
-* 🔭 **Trabajando en:** Sistema de Pausas Activas con Visión Artificial (Proyecto Académico), Sistema de gestión de membresías REDMIS (Proyecto Semi-Académico), Sistema de gestión de eventos deportivos | Finisher (Proyecto profesional - Luminisoft).
-* 🤝 **Buscando colaborar en:** Proyectos de código abierto y colaboración con equipos multidiciplinarios.
-* 💡 **Intereses:** Desarrollo Backend, Desarrollo Frontend, Computación en la Nube, Ciberseguridad.
-* ⚡ **Dato curioso:** Toco la guitarra en mi tiempo libre 🎸👀.
+Welcome to my GitHub profile! I’m currently a software engineering student at the Universidad Popular Autónoma de Estado de Puebla. I’m passionate about solving problems through coding and am always looking to learn new technologies.
 
 ---
 
-## 🛠️ Tecnologías y Herramientas
+## 👨‍💻 About me
 
-* **Lenguajes:** Python, Java, JavaScript, PHP
-* **Frontend:** HTML5, CSS3, Angular (Básico)
-* **Backend:** PHP, Django (Básico), NodeJS (Básico)
-* **Bases de Datos:** MySQL, PostgreSQL
-* **Herramientas:** Git, GitHub, Docker, Linux, VS Code
+* 🌱 **Currently studying:** Frontend Development with React (Meta / Coursera), Container Management with Docker (Coursera), Concepts in Data Science and AI (GCI World April 2026).
+* 🔭 **Working on:** Active Break System with Computer Vision (Academic Project), REDMIS Membership Management System (Semi-Academic Project), Sports Event Management System | Finisher (Professional Project - Luminisoft).
+* 🤝 **Looking to collaborate on:** Open-source projects and collaboration with multidisciplinary teams.
+* 💡 **Interests:** Backend Development, Frontend Development, Cloud Computing, Cybersecurity.
+* ⚡ **Fun fact:** I play the guitar in my free time 🎸👀.
 
 ---
 
-## 📈 Mis Estadísticas
+## 🛠️ Technologies and Tools
+
+* **Languages:** Python, Java, JavaScript, PHP
+* **Frontend:** HTML5, CSS3, Angular (Basic)
+* **Backend:** PHP, Django (Basic), NodeJS (Basic)
+* **Databases:** MySQL, PostgreSQL
+* **Tools:** Git, GitHub, Docker, Linux, VS Code
+---
+
+## 📈 My Stats
 
 
 <div align="center">
@@ -36,8 +35,8 @@
 
 ---
 
-## 📫 Cómo contactarme
+## 📫 How to contact me
 
 * **LinkedIn:** www.linkedin.com/in/samuel-pérez-guarneros-379689306
-* **Portafolio:** En desarrollo 😉
+* **Portfolio:** Coming soon 😉
 * **Email:** sam.guarneros22@gmail.com
