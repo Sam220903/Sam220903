@@ -69,7 +69,3 @@ Welcome to my GitHub profile! I’m currently a software engineering student at 
 </div>
 
 ---
-<br>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sam220903&label=Profile%20Views&color=0e1117&style=for-the-badge" alt="Contador de Visitas" />
-</div>
