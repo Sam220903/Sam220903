@@ -2,7 +2,7 @@
 
 ### Estudiante de Ingeniería de Software | Desarrollador/a en formación 🚀
 
-¡Bienvenido/a a mi perfil de GitHub! Actualmente soy estudiante de Ingeniería de Software en la Universidad Popular Autónoma de Estado de Puebla, apasionado/a por la resolución de problemas a través del código y siempre en busca de aprender nuevas tecnologías.
+¡Bienvenido/a a mi perfil de GitHub! Actualmente soy estudiante de Ingeniería de Software en la Universidad Popular Autónoma de Estado de Puebla, apasionado por la resolución de problemas a través del código y siempre en busca de aprender nuevas tecnologías.
 
 ---
 
