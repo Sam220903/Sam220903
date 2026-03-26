@@ -68,7 +68,7 @@ Welcome to my GitHub profile! I’m currently a software engineering student at 
   <img src="https://img.shields.io/badge/Portfolio-Coming_soon_😉-20232A?style=for-the-badge" alt="Portfolio" />
 </div>
 
-
+---
 <br>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Sam220903&label=Profile%20Views&color=0e1117&style=for-the-badge" alt="Contador de Visitas" />
