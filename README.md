@@ -18,8 +18,6 @@
 
 ## 🛠️ Tecnologías y Herramientas
 
-*(Nota: Borra o agrega las que se ajusten a tu perfil real)*
-
 * **Lenguajes:** Python, Java, JavaScript, PHP
 * * **Frontend:** HTML5, CSS3, Angular (Básico)
 * **Backend:** PHP, Django (Básico), NodeJS (Básico)
@@ -30,7 +28,6 @@
 
 ## 📈 Mis Estadísticas
 
-*(Nota: Puedes cambiar "TU_USUARIO" por tu nombre de usuario real de GitHub para que las tarjetas funcionen)*
 
 <div align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radium&include_all_commits=true&count_private=true"/>
