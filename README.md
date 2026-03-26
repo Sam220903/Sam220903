@@ -29,8 +29,8 @@ Welcome to my GitHub profile! I’m currently a software engineering student at 
 
 
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radium&include_all_commits=true&count_private=true"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radium"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Sam220903&show_icons=true&theme=radium&include_all_commits=true&count_private=true"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sam220903&layout=compact&theme=radium"/>
 </div>
 
 ---
