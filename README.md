@@ -19,7 +19,7 @@
 ## 🛠️ Tecnologías y Herramientas
 
 * **Lenguajes:** Python, Java, JavaScript, PHP
-* * **Frontend:** HTML5, CSS3, Angular (Básico)
+* **Frontend:** HTML5, CSS3, Angular (Básico)
 * **Backend:** PHP, Django (Básico), NodeJS (Básico)
 * **Bases de Datos:** MySQL, PostgreSQL
 * **Herramientas:** Git, GitHub, Docker, Linux, VS Code
@@ -38,6 +38,6 @@
 
 ## 📫 Cómo contactarme
 
-* **LinkedIn:** [www.linkedin.com/in/samuel-pérez-guarneros-379689306]
+* **LinkedIn:** www.linkedin.com/in/samuel-pérez-guarneros-379689306
 * **Portafolio:** En desarrollo 😉
 * **Email:** sam.guarneros22@gmail.com
