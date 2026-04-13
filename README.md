@@ -2,7 +2,7 @@
 
 ### Software Engineering Student | Developer in training 🚀
 
-Welcome to my GitHub profile! I’m currently a software engineering student at the Universidad Popular Autónoma de Estado de Puebla. I’m passionate about solving problems through coding and am always looking to learn new technologies.
+Welcome to my GitHub profile! I’m currently a software engineering student at the Universidad Popular Autónoma del Estado de Puebla. I’m passionate about solving problems through coding and am always looking to learn new technologies.
 
 ---
 
