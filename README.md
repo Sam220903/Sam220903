@@ -8,7 +8,6 @@ Welcome to my GitHub profile! I’m currently a software engineering student at 
 
 ## 👨‍💻 About me
 
-* 🌱 **Currently studying:** Frontend Development with React (Meta / Coursera), Container Management with Docker (Coursera), Concepts in Data Science and AI (GCI World April 2026).
 * 🔭 **Working on:** Active Break System with Computer Vision (Academic Project), REDMIS Membership Management System (Semi-Academic Project), Sports Event Management System | Finisher (Professional Project - Luminisoft).
 * 🤝 **Looking to collaborate on:** Open-source projects and collaboration with multidisciplinary teams.
 * 💡 **Interests:** Backend Development, Frontend Development, Cloud Computing, Cybersecurity.
